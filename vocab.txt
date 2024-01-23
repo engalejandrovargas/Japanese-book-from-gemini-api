@@ -1,0 +1,1559 @@
+| 電子レンジ |（でんしレンジ） | microwave oven |
+| ガスコンロ |（ガスコンロ） | gas range |
+| ガスコンロ |（ガスコンロ） | gas range |
+| ワイングラス |（ワイングラス） | wine glass |
+| お茶碗 |（おちゃわん） | tea cup |
+| コーヒーカップ |（コーヒーカップ） | coffee cup |
+| 冷蔵庫 |（れいぞうこ） | refrigerator |
+| 温蔵庫 |（おんぞうこ） | warming drawer |
+| 電気ポット |（でんきポット） | electric pot |
+| 炊飯器 |（すいはんき） | rice cooker |
+| リビング |（リビング） | Living room |
+| 窓ガラス |（まどガラス） | window glass |
+| 天井 |（てんじょう） | ceiling |
+| 戸 |（と） | door |
+| 押入れ |（おしいれ） | closet |
+| エアコン |（エアコン） | air conditioner |
+| コード |（コード） | cord |
+| カーペット |（カーペット） | carpet |
+| エアコンのリモコン | （エアコンの　リモコン） | remote control for an air conditioner
+| 電源を入れる | （でんげんを　いれる） | plug in
+| じゅうたんを掃除く | （じゅうたんを　そうじする） | vacuum the floor
+| 冷蔵庫 | （れいぞうこ） | refrigerator
+| あたためている | （あたためている） | be well-conditioned
+| クーラー | （クーラー） | cooler
+| 冷たい | （つめたい） | cold
+| 日がさして入っている | （ひが　さして　はいっている） | have good exposure to the sun
+| 勉強机 | （べんきょうづくえ） | desk
+| 日陰がさす | （ひかげがさす） | have poor exposure to the sun
+| スイッチ | （スイッチ） | switch
+| 切る | （きる） | turn off
+| つける | （つける） | turn on
+| 部屋 | （へや） | room
+| カーテン | （カーテン） | curtain
+| 窓 | （まど） | window
+|材料 | (ざいりょう) | Ingredients
+|作り方 | (つくりかた) | Cooking instructions
+|分量 | (ぶんりょう) | Quantity
+|人数 | (にんずう) | Number of servings
+|牛肉 | (ぎゅうにく) | Beef
+|じゃがいも | (じゃがいも) | Potatoes
+|玉ねぎ | (たまねぎ) | Onion
+|にんじん | (にんじん) | Carrot
+|調味料 | (ちょうみりょう) | Seasonings
+|水 | (みず) | Water
+|酒 | (さけ) | Cooking sake
+|しょうゆ | (しょうゆ) | Soy sauce
+|サラダ油 | (サラダあぶら) | Salad oil
+|鍋 | (なべ) | Pot
+|包丁 | (ほうちょう) | Kitchen knife
+|まな板 | (まないた) | Cutting board
+|計量スプーン | (けいりょうスプーン) | Measuring spoon
+|小さじ | (小さじ) | Teaspoon
+|大さじ | (おおさじ) | Tablespoon
+|カップ | (カップ) | Cup
+|リットル | (リットル) | Liter
+|グラム | (ぐらむ) | Gram
+|カロリー | (カロリー) | Calorie
+|栄養バランス | (えいようバランス) | Nutritional balance
+|高カロリー | (こうカロリー) | High calorie
+|低カロリー | (ていかロリー) | Low calorie
+|はかる | (はかる) | To measure
+|まぜる | (まぜる) | To mix
+|いためる | (いためる) | To stir-fry
+|にる | (にる) | To boil
+|やく | (やく) | To bake
+|あじつける | (あじをつける) | To season
+|たべる | (たべる) | To eat
+| はがす | はがす | peel, 剥がす |
+| 材料を切る | ざいりょうをきる | chop the ingredients, 材料を切る |
+| 大きく切る | おおきくきる | cut in big pieces, 大きく切る |
+|包丁 |（ほうちょう） | Kitchen knife
+|まないた |（まないた） | Cutting board
+|やかん |（やかん） | Kettle
+|鍋 |（なべ） | Pot
+|フライパン |（ふらいぱん） | Frying pan
+|しゃもじ |（しゃもじ） | Rice paddle
+|おろし金 |（おろしがね） | Grater
+|ボウル |（ぼウル） | Bowl
+|ざる |（ざる） | Strainer
+|計量スプーン |（けいりょうスプーン） | Measuring spoon
+|菜箸 |（さいばし） | Cooking chopsticks
+|ふきん |（ふきん） | Dish cloth
+| 味覚 | みかく | Sense of taste
+| する | する | To do
+| 見る | みる | To see
+| 感じる | かんじる | To feel
+| 辛い | からい | Spicy, hot, salty flavor
+| 強い | つよい | Has a strong flavor
+| しょっぱい |しっぱい | Salty
+| 酸っぱい |すっぱい | Sour
+|甘い | あまい | Sweet
+| まずい | まずい | Tastes bad
+| おいしい | おいしい | Tastes good
+| ことができる | できる | be completed
+| できた | できた | Just completed
+| エプロン | エプロン | Apron
+|ほうき | ほうき | Broom
+|ちりとり | ちりとり | Dustpan
+|ぞうきん | ぞうきん | Rag
+|バケツ | バケツ | Bucket
+|ちり | ちり | Dust
+|ごみ | ごみ | Garbage
+|ほうきで掃く | ほうきではく | Sweep with a broom
+|ぞうきんで拭く | ぞうきんでふく | Wipe with a rag
+|水をまく | みずをまく | Sprinkle water
+|ほうきで掃く | ほうきではく | Sweep with a broom
+|ごみ箱に入れる | ごみばこにいれる | Throw away the garbage
+|台所 | だいどころ | Kitchen
+|テーブルの上をふく | テーブルのうえをふく | Wipe the table with a cloth
+|イスの脚をふく | イスのあしをふく | Wipe the legs of the chair
+|ほうきで掃く | ほうきではく | Sweep with a broom
+|燃えるごみ | （もえるごみ） | Burnable garbage |
+|生ごみ | （なまごみ） | Food waste |
+|紙ごみ | （かみごみ） | Paper waste |
+|プラスチックごみ | （プラスチックごみ） | Plastic waste |
+|不燃ごみ | （ふねんごみ） | Non-burnable garbage |
+|分別 | （ぶんべつ） | Sorting garbage |
+|ごみ袋 | （ごみぶくろ） | Garbage bag |
+|スリッパをそろえる | （スリッパをそろえる） | Put slippers neatly |
+|上履きをそろえる | （うわばきをそろえる） | Put shoes neatly |
+|下駄箱 | （げたばこ） | Shoe rack |
+|収納 | （しゅうのう） | Storage |
+| 洗濯物 | せんたくもの | laundry |
+| 汚れている | よごれている | soiled |
+| 洗剤 | せんざい | detergent |
+| 洗濯機 | せんたくき | washing machine |
+| センターに入れる | せんたーにいれる | put in the center |
+| 入れる | いれる | put in |
+| 終わったら | おわったら | when finished |
+| 干す | ほす | dry |
+| たたむ | たたむ | fold |
+| しわを伸ばす | しわをのばす | take the creases out |
+| 正しい | ただしい | correct |
+| 汚れている | よごれている | dirty |
+| 漂白剤 | （ひょうはくざい） | bleach |
+| 洗浄物が傷つけられる | せんじょうぶつのうつけられる | be scratched |
+| ドライクリーニング | （ドライクリーニング） | dry-cleaning |
+| ワインディング | （ワインディング） | winding |
+| 乾燥機 | （かんそうき） | clothes dryer |
+| 布団カバー | （ふとんカバー） | futon cover |
+| 縮んでしまった | ちぢんでしまった | has shrunk |
+| アイロンをかける | （アイロンをかける） | to iron |
+| まっすぐに | まっすぐに | straight |
+| のびる | のびる | stretch |
+| 縮む | ちぢむ | shrink |
+| 子供部屋 |（こどもべや） | Children's room |
+| 家族 |（かぞく） | Family |
+| 犬 |（いぬ） | Dog |
+| 猫 |（ねこ） | Cat |
+| ペット |（ぺっと） | Pet |
+| お父さん |（おとうさん） | Father |
+| お母さん |（おかあさん） | Mother |
+| 息子 |（むすこ） | Son |
+| 娘 |（むすめ） | Daughter |
+| 兄 |（あに） | Older brother |
+| 姉 |（あね） | Older sister |
+| 弟 |（おとうと） | Younger brother |
+| 妹 |（いもうと） | Younger sister |
+| 赤ちゃん |（あかちゃん） | Baby |
+| 祖父 |（そふ） | Grandfather |
+| 祖母 |（そぼ） | Grandmother |
+| 孫 |（まご） | Grandchild |
+| ひ孫 |（ひまご） | Great-grandchild |
+| 親戚 |（しんせき） | Relatives |
+| 家族構成 |（かぞくこうせい） | Family structure |
+| 世帯 |（せたい） | Household |
+| 住宅 |（じゅうたく） | Housing |
+| 生活 |（せいかつ） | Life |
+| 教育 |（きょういく） | Education |
+| 職業 |（しょくぎょう） | Occupation |
+| 収入 |（しゅうにゅう） | Income |
+| 支出 |（ししゅつ） | Expenditure |
+| 貯蓄 |（ちょちく） | Savings |
+| 借金 |（しゃっきん） | Debt |
+| ローン |（ローン） | Loan |
+| 保険 |（ほけん） | Insurance |
+| 税金 |（ぜいきん） | Taxes |
+| 社会保障 |（しゃかいほしょう） | Social security |
+| 年金 |（ねんきん） | Pension |
+| 医療 |（いりょう） | Medical care |
+| 介護 |（かいご） | Nursing care |
+| 福祉 |（ふくし） | Welfare |
+| 子育て |（こそだて） | Childcare |
+| 教育費 |（きょういくひ） | Education expenses |
+| 住宅費 |（じゅうたくひ） | Housing expenses |
+| 食費 |（しょくひ） | Food expenses |
+| 日用品費 |（にちようひんひ） | Daily necessities expenses |
+| 交通費 |（こうつうひ） | Transportation expenses |
+| 通信費 |（つうしんひ） | Communication expenses |
+| 交際費 |（こうさいひ） | Entertainment expenses |
+| その他 |（そのた） | Others |
+| 貯蓄率 |（ちょちくりつ） | Savings rate |
+| 借金率 |（しゃっきんりつ） | Debt ratio |
+| 可処分所得 |（かしょぶんしょとく） | Disposable income |
+| 生活保護 |（せいかつほご） | Social assistance |
+| 最低生活費 |（さいていせいかつひ） | Minimum cost of living |
+| 相続税 |（そうぞくぜい） | Inheritance tax |
+| 贈与税 |（ぞよぜい） | Gift tax |
+| 所得税 |（しょとくぜい） | Income tax |
+| 住民税 |（じゅうみんぜい） | Resident tax |
+| 固定資産税 |（こていしさんぜい） | Property tax |
+| 自動車税 |（じどうしゃぜい） | Automobile tax |
+| ガソリン税 |（がそりんぜい） | Gasoline tax |
+| たばこ税 |（たばこぜい） | Tobacco tax |
+| 酒税 |（しゅぜい） | Liquor tax |
+| 入院費 |（にゅういんひ） | Hospitalization expenses |
+| 手術費 |（しゅじゅつひ） | Surgical expenses |
+| 投薬費 |（とうやくひ） | Medication expenses |
+| 診察費 |（しんさつひ） | Consultation fee |
+| 介護保険料 |（かいごほけんりょう） | Nursing care insurance premium |
+| 年金保険料 |（ねんきんほけんりょう） | Pension insurance premium |
+| 健康保険料 |（けんこうほけんりょう） | Health insurance premium |
+| 生命保険料 |（せいめいほけんりょう） | Life insurance premium |
+| 地震保険料 |（じしんほけんりょう） | Earthquake insurance premium |
+| 火災保険料 |（かさいほけんりょう） | Fire insurance premium |
+| 自動車保険料 |（じどうしゃほけんりょう） | Automobile insurance premium |
+| 傷害保険料 |（しょうがいほけんりょう） | Accident insurance premium |
+| 賠償責任保険料 |（ばいしょうせきにんほけんりょう） | Liability insurance premium |
+| 旅行保険料 |（りょこうほけんりょう） | Travel insurance premium |
+| いたずらをする | いたずらをする | get into mischief |
+| 手をつなく | てをつなぐ | hold hands |
+| 犬を飼う | いぬをかう | keep a dog |
+| 友達の親戚 | ともだちのしんせき | friend's relatives |
+| 猫にえさをやる | ねこにえさをやる | feed a dog |
+| かんじを勉強する | かんじをべんきょうする | study kanji |
+| れんしゅう | れんしゅう | practice |
+| 一昨日 |（おととい） | the day before yesterday 
+| 先日 |（せんじつ） | the other day 
+| あさって |（あさって） | the day after tomorrow 
+| 来週 |（らいしゅう） | next week 
+| 今週 |（こんしゅう） | this week 
+| 先週 |（せんしゅう） | last week 
+| 来年 |（らいねん） | next year 
+| 今年 |（ことし） | this year 
+| 明年 |（みょうねん） | next year 
+| 一昨年 |（おととし） | the year before last 
+| 再来年 |（さいらいねん） | the year after next 
+| 先月 |（せんげつ） | last month 
+| 今月 |（こんげつ） | this month 
+| 来月 |（らいげつ） | next month 
+| 上旬 |（じょうじゅん） | the first 10 days of the month 
+| 中旬 |（ちゅうじゅん） | the middle 10 days of the month 
+| 下旬 |（げじゅん） | the last 10 days of the month 
+| 年末 |（ねんまつ） | the end of the year 
+| 年始 |（ねんし） | the beginning of the year 
+| 祝日 |（しゅくじつ） | national holiday 
+| 休日 |（きゅうじつ） | day off 
+| 平日 |（へいじつ） | weekday 
+| 土日 |（どにち） | Saturday and Sunday 
+| 祝前日 |（しゅくぜんび） | the day before a national holiday 
+| 祝日 |（しゅくじつ） | national holiday 
+| 翌週 |（よくしゅう） | the week after next 
+| 先週 |（せんしゅう） | last week 
+| 先々週 |（せんせんしゅう） | the week before last 
+| 再来週 |（さいらいしゅう） | the week after next 
+| 来週 |（らいしゅう） | next week 
+| 今週 |（こんしゅう） | this week 
+| 明後日 |（あさって） | the day after tomorrow 
+| 一昨年 |（おととし） | the year before last 
+| 再来年 |（さいらいねん） | the year after next 
+| 先月 |（せんげつ） | last month 
+| 来月 |（らいげつ） | next month 
+| 年末 |（ねんまつ） | the end of the year 
+| 年始 |（ねんし） | the beginning of the year 
+| 祝日 |（しゅくじつ） | national holiday 
+| 平日 |（へいじつ） | weekday 
+| 土日 |（どにち） | Saturday and Sunday 
+| 祝前日 |（しゅくぜんび） | the day before a national holiday 
+| 翌週 |（よくしゅう） | the week after next 
+| 先々週 |（せんせんしゅう） | the week before last 
+| 来週 |（らいしゅう） | next week 
+| 今週 |（こんしゅう） | this week 
+| 一昨日 |（おととい） | the day before yesterday 
+| 明後日 |（あさって） | the day after tomorrow 
+| 一昨年 |（おととし） | the year before last 
+| 再来年 |（さいらいねん） | the year after next 
+| 先月 |（せんげつ） | last month 
+| 来月 |（らいげつ） | next month 
+| 年末 |（ねんまつ） | the end of the year 
+| 年始 |（ねんし） | the beginning of the year 
+| 祝日 |（しゅくじつ） | national holiday 
+| 平日 |（へいじつ） | weekday 
+| 土日 |（どにち） | Saturday and Sunday
+| 旅行 | りょこう | travel
+| 荷物 | にもの | baggage
+| つめる | つめる | to pack
+| 二泊三日 | にはくみっか | two nights and three days
+| 温泉に行く | おんせんにいく | to go to a hot spring
+| 楽しむ | たのしむ | to enjoy
+| 思い出に残す | おもいでにのこす | to make memories
+| 費用 | ひよう | cost
+| かかる | かかる | to cost
+| 予算 | よさん | budget
+| 超える | こえる | to exceed
+| 計画 | けいかく | plan
+| 立てる | たてる | to make a plan
+| 下調べ | したしらべ | research
+| する | する | to do
+| ホテル | ホテル | hotel
+| 予約 | よやく | reservation
+| する | する | to make a reservation
+| 値段 | ねだん | price
+| 高い | たかい | expensive
+| 安い | やすい | cheap
+| 朝食 | ちょうしょく | breakfast
+| 込み | こみ | included
+| 別 | べつ | separate
+| 考える | かんがえる | to think
+| 予算オーバー | よさんオーバー | over budget
+| 困る | こまる | troubled
+| どうしよう | どうしよう | what should I do
+| 悩む | なやむ | to worry
+| 考える | かんがえる | to think
+| 方法 | ほうほう | way
+| 見つける | みつける | to find
+| 節約 | せつやく | to save money
+| する | する | to do
+| 交通費 | こうつうひ | transportation費
+| かかる | かかる | to cost
+| 高速バス | こうそくバス | highway bus
+| 乗る | のる | to ride
+| 新幹線 | しんかんせん | bullet train
+| 利用する | りようする | to use
+| 飛行機 | ひこうき | airplane
+| 宿泊費 | しゅくはくひ | accommodation費
+| かかる | かかる | to cost
+| ホテル | ホテル | hotel
+| 泊まる | とまる | to stay
+| 温泉旅館 | おんせんりょかん | hot spring inn
+| ビジネスホテル | ビジネスホテル | business hotel
+| ゲストハウス | ゲストハウス | guest house
+| 食事代 | しょくじだい | meal費
+| かかる | かかる | to cost
+| レストラン | レストラン | restaurant
+| 食べる | たべる | to eat
+| お土産代 | おみやげだい | souvenir費
+| かかる | かかる | to cost
+| 買う | かう | to buy
+| アクティビティ代 | アクティビティだい | activity費
+| かかる | かかる | to cost
+| する | する | to do
+| 観光 | かんこう | sightseeing
+| 入場料 | にゅうじょうりょう | admission fee
+| かかる | かかる | to cost
+| 体験 | たいけん | experience
+| する | する | to do
+| 費用 | ひよう | cost
+| かかる | かかる | to cost
+| 合計 | ごうけい | total
+| 円 | えん | yen
+| 予算 | よさん | budget
+| 内 | うち | within
+| 収まる | おさまる | to fit
+| 超える | こえる | to exceed
+| 楽しむ | たのしむ | to enjoy
+| 旅行 | りょこう | travel
+|改札| かいさつ| Ticket gate
+|切符| きっぷ| Ticket
+|電車| でんしゃ| Train
+|上り| のぼり| Up
+|下り|くだり| Down
+|エスカレーター| エスカレーター| Escalator
+|時刻表| じこくひょう|Timetable
+|始発|しはつ| Originating
+|終点|しゅうてん| Terminus
+|直通|ちょくつう| Non-stop
+|特急|とっきゅう| Limited express
+|快速|かいそく| Rapid
+|普通|ふつう| Local
+|指定席|していせき| Reserved seat
+|自由席|じゆうせき| Non-reserved seat
+|窓側|まどがわ| Window seat
+|通路側|つうろがわ| Aisle seat
+| 台所 |（だいどころ) | Kitchen |
+| 勝手 |（かって） | Kitchen |
+| 納戸 |（なんど） | Storeroom |
+| 物置 |（ものおき） | Storeroom |
+| 便所 |（べんじょ） | Toilet |
+| 風呂 |（ふろ） | Bath |
+| 洗面所 |（せんめんじょ） | Washroom |
+| トイレ |（といれ） | Toilet |
+| 玄関 |（げんかん） | Entrance |
+| 廊下 |（ろうか） | Corridor |
+| 階段 |（かいだん） | Stairs |
+| 部屋 |（へや） | Room |
+| 寝室 |（しんしつ） | Bedroom |
+| 子供部屋 |（こどもべや） | Children's room |
+| 客間 |（きゃくのま） | Guest room |
+| リビング |（りびんぐ） | Living room |
+| ダイニング |（だいにんぐ） | Dining room |
+| キッチン |（きっちん） | Kitchen |
+| 改札 | かいさつ | Ticket gate
+| ホーム |（ホーム） | Platform
+| 切符 | きっぷ | Ticket
+| 乗車券 | じょうしゃけん | 乗車券
+| 定期券 | ていきけん | Commuter pass
+| 自動改札機 | じどうかいさつき | Automated ticket gate
+| 切符売り場 | きっぷうりば | Ticket office
+| みどりの窓口 | みどりのまどぐち | Midori no Madoguchi (JR ticket office)
+| 窓口 | まどぐち | Ticket window
+| 乗車 | じょうしゃ | Boarding
+| 降車 | こうしゃ | Disembarking
+| 発車 | はっしゃ | Departure
+| 到着 | とうちゃく | Arrival
+| 始発 | しはつ | First train of the day
+| 終電 | しゅうでん | Last train of the day
+| 直通 | ちょくつう | Direct (train)
+| 快速 | かいそく | Rapid (train)
+| 各駅停車 | かくえきていしゃ | Local (train)
+| 普通 | ふつう | Ordinary (train)
+| 急行 | きゅうこう | Express (train)
+| 新幹線 | しんかんせん | Shinkansen (bullet train)
+| 在来線 | ざいらいせん | Conventional line
+| 特急 | とっきゅう | Limited express (train)
+| 乗換え | のりかえ | Transfer
+| 乗り遅れる | のりおくれる | Miss the train
+| 払い戻し | はらいもどし | Refund
+| 精算 | せいさん | Settlement
+| 遅延 | ちえん | Delay
+| 不通 | ふつう | Suspension (of train service)
+| 非常ベル | ひじょうベル | Emergency bell 
+| 非常口 | ひじょうぐち | Emergency exit 
+| 乗車券 | じょうしゃけん | Ticket 
+| 改札口 | かいさつきぐち | Ticket gate
+| ホーム | ホーム | Platform 
+| 改札 | かいさ | Inspection 
+| 切符 | きっぷ | Ticket 
+| 駅員 | えきいん | Station staff 
+| アナウンス | アナウンス | Announcement 
+| 電車の | でんしゃの | Of the train 
+| 遅延 | ちえん | Delay 
+| お詫び | おわび | Apology 
+| ご迷惑 | ごめいわく | Inconvenience 
+| おかけする | おかけする | Cause 
+| いたします | いたしいます | Will do 
+| 車 | くるま | car 
+| 運転しましょう | うんてんしましょう | Let's drive 
+| 始めましょう | はじめましょう | Let's begin 
+| ブレーキ |ブレーキ | brake 
+| ライト | ライト | light 
+| ワイパー | ワイパー | wiper 
+| ガソリンスタンド | ガソリンスタンド | gas station 
+| 高速道路 | こうそくどうろ | highway 
+| タイヤ | タイヤ | tire 
+| 渋滞 | じゅうたい | Traffic jam
+| 踏切 | ふみきり | Railroad crossing
+| 工事中 | こうじちゅう | Under construction
+| 横断歩道 | おうだんほどう | Pedestrian crossing
+| バス停 | バス停 | Bus stop
+| 交差点 | こうさてん | Intersection
+| 信号 | しんごう | Traffic light
+| 一方通行 | いっぽうつうこう | One-way street
+| 抜け道 | ぬけみち | Shortcut
+| 曲がる | まがる | Turn
+| 近い | ちかい | Near
+| 遠い | とおい | Far
+|スピード違反をする |すぴーどいはんをする |get a speeding ticket 
+|駐車禁止をする |ちゅうしゃきんしをする |No parking here 
+|通行止めをする |つうこうどめをする |Road closed 
+|道をふさぐ |みちをふさぐ |block the road 
+|猫が道を横断する |ねこがどうをよこだんする |A cat crosses the road 
+|すれ違う |すれちがう |pass each other on a road 
+|(交通)事故を起こす|(こうつうじこ)をおこす |get involved in a car accident 
+|車庫入れをする |しゃこいれをする |back into the garage 
+|信号機が故障する |しんごうきがこしょうする |Traffic light is out of order 
+|道が凍結する |みちがとうけつする |The road is frozen 
+|慣れる |なれる |get used to 
+| 預金 | yokin | savings 
+| 通帳 | tsūchō | bankbook 
+| カード | kādo | card 
+| お金 | okane | money 
+| 入れてください | irete kudasai | please insert 
+| 押してください | oshite kudasai | please press 
+| 暗証番号 | anshōbangō | PIN (personal identification number) 
+| はんこ | hanko | seal 
+| サイン | sain | signature 
+| 千円札 | sen yen satsu | 1,000 yen bill 
+| 五千円札 | go sen yen satsu | 5,000 yen bill 
+| 一万円札 | ichi man yen satsu | 10,000 yen bill 
+| 硬貨 | kōka | coin 
+| 紙幣 | shihei | bill 
+| お釣り | o tsuri | change |
+| もちろん | mochiron | of course |
+| お預けします |預ける | put money in a bank account |
+| お金を下ろす | orosu | withdraw money (from one's bank account) |
+| 振り込む | furikomu | transfer money (by bank) |
+| 支払いをする | shiharai o suru | make a payment |
+| 引き落とす | hiki otosu | have money debited from one's account |
+| 口座開設 | kōza kaisetsu | open an account |
+| 残高 | zandaka | account balance |
+| 家賃 | yachin | house rent |
+| 公共料金 | kōkyōryōkin | utility bills, charges |
+| 払い込み用紙 | haraikomi yōshi | payment slip |
+| 送金 |（そうきん） | to remit money |
+| 手数料 |（てすうりょう） | a commission; a fee for services rendered |
+| 為替 |（かわせ） | foreign exchange |
+| 小切手 |（こぎって） | a check |
+| 手形 |（てがた） | a bill; a note |
+| 送る |（おくる） | to send |
+| 為替 |（かわせ） | foreign exchange |
+| 小包 |（こづつみ） | a parcel |
+| 配達 |（はいたつ） | delivery |
+|デート|でーと|Date|
+|映画|えいが|Movie|
+|付き合う|つきあう|Date|
+|じゃあ|じゃあ|So|
+|行きましょう|いきましょう|Let's go|
+|誘う|さそ（誘う）|Invite|
+|交換する|こうかん（交換）する|Exchange|
+|電話番号|でんわばんごう|Phone number|
+|住所|じゅうしょ|Address|
+|メールアドレス|めーるアドレス|Email address|
+|いいですね|いいですね|That's a good idea|
+|コンサート|こんさーと|Concert|
+|一緒に行く|いっしょにいく|Go together|
+|都合|つごう|都合がいい|It's convenient|
+|いいですね|いいですね|That's a good idea|
+|電話する|でんわする|Call|
+|メールする|メールする|Email|
+|ラインする|ラインする|Text|
+|会う|あう|Meet|
+|好きになる|すきになる|Fall in love|
+|嫌いになる|きらいになる|Hate|
+|友達になる|ともだちになる|Become friends|
+|恋人になる|こいびとになる|Become lovers|
+|結婚する|けっこんする|Get married|
+|子供ができる|こどもができる|Have children|
+|幸せ|しあわせ|Happiness|
+|おまえ|おまえ|You|
+|もっと|もっと|More|
+|(女性にも)モテモテ|（じょせいに）モテモテ|(Be) popular with women|
+|合コンに誘う|(ごうコンに)さそ（誘う）|Invite to a group date|
+|誰かの予定をきく|だれかのよていをきく|Inquire about someone's plan|
+|都合を確認する|つごうをかくにんする|Try to make oneself available|
+| 彼氏 |かれし | Boyfriend 
+| 彼女 |かのじょ | Girlfriend
+| プロポーズ |ぷろぽーず | Propose
+| 結婚 |けっこん | Marriage
+| 離婚 |りこん | Divorce
+| あいさつ |あいさつ | Greeting
+| 返事 |へんじ | Reply
+| けんか |けんか | Quarrel
+| 仲直り |なおり | Reconcile
+| まゆげ | まゆげ | eyebrow |
+| まつげ | まつげ | eyelash |
+| ベルト | ベルト | belt |
+| ネックレス | ネックレス | necklace |
+| イヤリング | イヤリング | earring |
+| パンツ | パンツ | pants |
+| 下着 | パンツ | underwear |
+| シャツ | シャツ | shirt |
+| 上着 | うわぎ | jacket |
+| 歯磨き | はみがき | tooth brushing |
+| ドライヤー | ドライヤー | dryer |
+| くし | くし | comb |
+| 化粧をする | けしょうをする | put on make up |
+| 口紅を塗る | くちべにをぬる | put on lipstick |
+| 着替える |きがえる | change one's clothes |
+| ひんぬう |ひんぬう | be soaked |
+| マフラーを巻く |まふらーをまく | wrap a muffler around the neck |
+| 手袋をはめる |てぶくろをはめる | put on gloves |
+| 鍵をかける |かぎをかける | lock a door |
+| スペアキー |すぺあきー | spare clothes |
+| おとなしい人 |おとなしいひと | a quiet person |
+| にぎやか |にぎやか | lively, noisy |
+| ほんとう |ほんとう | truth |
+| 早く |はやく | early |
+| ねむい |ねむい | sleepy |
+| かいもの |かいもの | shopping |
+| じてんしゃ |じてんしゃ | bicycle |
+| ほん |ほん | book |
+| えんぴつ |えんぴつ | pencil |
+|けしゴム |けしゴム | eraser |
+| かみ |かみ | paper |
+| ノート |ノート | notebook |
+| せんせい |せんせい | teacher |
+| ともだち |ともだち | friend |
+| おかあさん |おかあさん | mother |
+| おとうさん |おとうさん | father |
+| いもうと |いもうと | younger sister |
+| おにいさん |おにいさん | older brother |
+| いぬ |いぬ | dog |
+| ねこ |ねこ | cat |
+| うし |うし | cow |
+|うま |うま | horse |
+| ひつじ |ひつじ | sheep |
+| ぶた |ぶた | pig |
+| とり |とり | bird |
+| さかな |さかな | fish |
+| むし |むし | insect |
+| くも |くも | spider |
+| はち |はち | bee |
+| あり |あり | ant |
+| みみず |みみず | earthworm |
+| 木 |き | tree |
+| はな |はな | flower |
+| くさ |くさ | grass |
+| いし |いし | stone |
+| つち |つち | soil |
+| みず |みず | water |
+| ひかり |ひかり | light |
+| かぜ |かぜ | wind |
+| あめ |あめ | rain |
+| ゆき |ゆき | snow |
+| つゆ |つゆ | dew |
+| きり |きり | fog |
+| くも |くも | cloud |
+| にじ |にじ | rainbow |
+| ひこうき |ひこうき | airplane |
+| くるま |くるま | car |
+| ふね |ふね | ship |
+| でんしゃ |でんしゃ | train |
+| バス |バス | bus |
+| タクシー |たくしー | taxi |
+| 自転車 |じてんしゃ | bicycle |
+| オートバイ |オートバイ | motorcycle |
+| テレビ |テレビ | television |
+| ラジオ |ラジオ | radio |
+| パソコン |パソコン | personal computer |
+| 携帯電話 |けいたいでんわ | mobile phone |
+| インターネット |インターネット | internet |
+| メール |メール | email |
+| ゲーム |ゲーム | game |
+| スポーツ |スポーツ | sports |
+| 音楽 |おんがく | music |
+| 芸術 |げいじゅつ | art |
+| 科学 |かがく | science |
+| 歴史 |れきし | history |
+| 地理 |ちり | geography |
+| 数学 |すうがく | mathematics |
+| 国語 |こくご | Japanese language |
+| 英語 |えいご | English |
+| 中国語 |ちゅうごくご | Chinese |
+| 韓国語 |かんこくご | Korean |
+| フランス語 |ふらんすご | French |
+| ドイツ語 |どいつご | German |
+| スペイン語 |すぺいんご | Spanish |
+| イタリア語 |イタリアご | Italian |
+| ロシア語 |ろしあご | Russian |
+| アラビア語 |アラビアご | Arabic |
+| ヘブライ語 |へぶらいご | Hebrew |
+| ヒンディー語 |ヒンディーご | Hindi |
+| ウルドゥー語 |ウルドゥーご | Urdu |
+| ベンガル語 |ベンガルご | Bengali |
+| パンジャブ語 |パンジャブご | Punjabi |
+| マラーティー語 |マラーティーご | Marathi |
+| グジャラート語 |グジャラートご | Gujarati |
+| カンナダ語 |カンナダご | Kannada |
+| テルグ語 |テルグご | Telugu |
+| タミル語 |タミルご | Tamil |
+| マラヤーラム語 |マラヤーラムご | Malayalam |
+| オリヤー語 |オリヤーご | Odia |
+| アッサム語 |アッサムご | Assamese |
+| カシミール語 |カシミールご | Kashmiri |
+| ネパール語 |ネパールご | Nepali |
+| シンハラ語 |シンハラご | Sinhala |
+| ダッカ語 |ダッカご | Dacca |
+| ビルマ語 |ビルマご | Burmese |
+| タイ語 |タイご | Thai |
+| ラオス語 |ラオスご | Lao |
+| カンボジア語 |カンボジアご | Cambodian |
+| ベトナム語 |ベトナムご | Vietnamese |
+| マレー語 |マレーご | Malay |
+| インドネシア語 |インドネシアご | Indonesian |
+| フィリピン語 |フィリピンご | Filipino |
+| モンゴル語 |モンゴルご | Mongolian |
+| ウイグル語 |ウイグルご | Uyghur |
+| カザフ語 |カザフご | Kazakh |
+| キルギス語 |キルギスご | Kyrgyz |
+| タジク語 |タジクご | Tajik |
+| ウズベク語 |ウズベクご | Uzbek |
+| トルクメン語 |トルクメンご | Turkmen |
+| アゼルバイジャン語 |アゼルバイジャンご | Azerbaijani |
+| アルメニア語 |アルメニアご | Armenian |
+| グルジア語 |グルジアご | Georgian |
+| アブハズ語 |アブハズご | Abkhazian |
+| チェチェン語 |チェチェンご | Chechen |
+| イングシュ語 |イングシュご | Ingush |
+| オセット語 |オセットご | Ossetian |
+| カバルダ語 |カバルダご | Kabardian |
+| アディゲ語 |アディゲご | Adyghe |
+| アバザ語 |アバザご | Abaza |
+| アブハズ語 |アブハズご | Abkhazian |
+| チェチェン語 |チェチェンご | Chechen |
+| イングシュ語 |イングシュご | Ingush |
+| オセット語 |オセットご | Ossetian |
+| カバルダ語 |カバルダご | Kabardian |
+| アディゲ語 |アディゲご | Adyghe |
+| 無地 | むじ | Solid color
+| 半袖 | はんそで | Short sleeve
+| 長袖 | ながそで | Long sleeve
+| 丸首 | まるくび | Crew neck
+| Vネック | ブイネック | V-neck
+| 開襟 | かいとり | Open collar
+| ボタンダウン | ボタンダウン | Button-down collar
+| ジップ |ジップ | Zipper
+| ストライプ | ストライプ | Striped
+| ボーダー | ボーダー | ボーダー |
+| 花柄 | はなげら | Floral pattern
+| 大きい | おおきい | Big
+| 小さい | ちいさい | Small
+| 幅広 | はばひろ | Wide
+| 細身 | ほそみ | Narrow
+| 大きいサイズ | おおきいサイズ | Large size
+| 小さいサイズ | ちいさいサイズ | Small size
+| ゆったり | ゆったり | Loose
+| ぴったり |ぴったり | Tight
+| ３割引き | さんわりびき | 30% off the regular price |
+| 売り切れる | うりきれる | sold out |
+| 宝石のダイヤモンド | ほうせきのダイヤモンド | real diamond |
+| 値段をつける | ねだんをつける | make a loss |
+| 買う物 | かうもの | something to buy |
+| 売れ残り | うれのこり | unsold items |
+| 返品する | へんぴんする | return |
+| 注文 | ちゅうもん | Order |
+| 会計 | かいけい | Check |
+| ごちそうさま | （ごちそうさまでした） | Thank you for the food |
+| 結構です | けっこうです | No, thank you |
+| お手洗いはどこですか | おてあらいはどこですか | Where is the restroom? |
+| トイレはどこですか | トイレはどこですか | Where is the restroom? |
+| どれくらい | どれくらい | How much/many
+| まっています | まっています | wait/am waiting
+| もう少し | もうすこし | a little more
+| お待たせしました |おまたせしました | Thank you for waiting
+| 待ち合わせ | まちあわせ |待ち合わせ |
+| 正しい | ただしい | correct
+| 間違い | まちがい | mistake
+| ウェイトレス | ウェイトレス | waitress
+| お客様 | おきゃくさま | customer
+| お待たせ | おまたせ | kept you waiting
+| 申し訳ありません | もうしわけありません | I am sorry
+| ございます | ございます | is/am
+| どうぞ | どうぞ | please
+| お食事 | おしょくじ | meal
+| 召し上がりました |召し上がりました | had/ate
+| まだ | まだ | yet
+| 結構です |けっこうです | no thank you
+| お勘定 | おかんじょう | bill
+| もちろんです | もちろんです | of course
+| どちら | どちら | which
+| お入り下さい | おはいりください | please come in
+| つきあたり | つきあたり | dead end
+| まっすぐ | まっすぐ | straight
+| 右 | みぎ | right
+| 曲がって | まがって | turn
+| 左 | ひだり | left
+| おります | おります | get off
+| 改札口 | かいさつきぐち | ticket gate
+| さいなら | さいなら | goodbye
+|乾杯| かんぱい|Cheers!|
+|ビール|（びーる）|Beer|
+|お疲れ様 |（おつかれさま）|Thank you for your hard work.|
+|飲み会|（のみかい）|Drinking party|
+|送別会|（そうべつかい）|Farewell party|
+|歓迎会|（かんげいかい）|Welcome party|
+|飲み放題|（のみほうだい）|All you can drink|
+|飲み干す|（のみほす）|Drink up|
+|酌む|（しゃくむ）|Pour sake into a glass|
+|酒の上の泡|（さけのうえのあわ）|Come to life|
+|乾杯の音頭|（かんぱいの　おんとう）|A toast|
+|ビールを一杯ひっかける|（びーるをいっぱいひっかける）|Down a mug of beer in one gulp|
+|つまみ|（つまみ）|Dishes for snacking|
+|ウイスキーの水割り|（ういすきーのみずわり）|Whiskey and water|
+|酔っぱらう|（よっぱらう）|Get drunk|
+|酔いどれ|（よいどれ）|A drunk|
+|羽目を外す|（はねをはずす）|Get out of control|
+|騒ぐ|（さわがす）|Be noisy|
+|盛り上がる|（もりあがる）|Make merry|
+| タバコの煙 | たばこのけむり | cigarette smoke |
+| 灰皿 | はいざら | ashtray |
+| グラスを割る | ぐらすをわる | break the glass |
+| ビールを注ぐ | ビールをつぐ | pour the beer |
+| 栓抜き | せんぬき | bottle opener |
+| 酔っ払う | よっぱらう | get drunk |
+| 騒ぐ | さわぐ | make noise |
+| 迷惑をかける | めいわくをかける | cause someone trouble |
+| 喧嘩 | けんか | fight |
+| 警察 | けいさつ | police |
+| 泥棒 | どろぼう | thief |
+| 火事 | かじ | fire |
+| 地震 | じしん | earthquake |
+| 雷 | かみなり | thunder |
+| 台風 | たいふう | typhoon |
+| 雪 | ゆき | snow |
+| 氷 | こおり | ice |
+| 雨 | あめ | rain |
+| 曇り | くもり | cloudy |
+| 晴れ | はれ | sunny |
+| 暑い | あつい | hot |
+| 寒い | さむい | cold |
+| 風が強い | かぜがつよい | windy |
+| 湿気がある | しっけがある | humid |
+| 乾燥している | かんそうしている | dry |
+| 会計 |（かいけい） | cashier register |
+| 伝票 |（でんぴょう） | receipt, check |
+| 請求書 |（せいきゅうしょ） | bill |
+| 別々 |（べつべつ） | individually |
+| 払う |（はらう） | pay the bill |
+| 割り勘 |（わりかん） | pay one's share |
+| おごる |（おごる） | treat somebody |
+| クレジットカード |（クレジットカード） | credit card |
+| 有効期限 |（ゆうこうきげん） | expiration date |
+| 確認する |（かくにんする） | confirm |
+| 延長する |（えんちょうする） | extend |
+| お釣り |（おつり） | change |
+| 領収書 |（りょうしゅうしょ） | receipt |
+| もらう |（もらう） | receive |
+| 返す |（かえす） | return |
+| おまけ |（おまけ） |おまけ |
+| 浪費 |（ろうひ） | spend wastefully |
+| 節約 |（せつやく） | economize |
+| 貯金 |（ちょきん） | savings |
+| 使う |（つかう） | cost |
+| 買う |（かう） | buy |
+| 交通費 |（こうつうひ） | Transportation expenses |
+| 食費 |（しょくひ） | Food expenses |
+| 無駄遣い |（むだづかい） | Wasteful spending |
+| 節約する |（せつやくする） | Economize |
+| 貧乏になる |（びんぼうになる） | Become poor |
+| 借金する |（しゃっきんする） | Borrow money |
+| 貯金する |（ちょきんする） | Save money |
+| 贅沢な生活 |（ぜいたくなせいかつ） | Luxurious life |
+| 質素な生活 |（しそなせいかつ） | Frugal life |
+| 貯金通帳 |（ちょきんつうちょう） | Bankbook |
+| お金持ち |（おかねもち） | Rich person |
+| 貧乏人 |（びんぼうにん） | Poor person |
+| 印刷 |（いんさつ） | print |
+| 明日 |（あした） | tomorrow |
+| 明後日 |（あさって） | the day after tomorrow |
+| 明々後日 |（あさあさって） | two days from tomorrow |
+| 一昨日 |（おととい） | the day before yesterday |
+| 一昨々日 |（おとととい） | two days before yesterday |
+| 来週 |（らいしゅう） | next week |
+| 先週 |（せんしゅう） | last week |
+| 今週 |（こんしゅう） | this week |
+| 先月 |（せんげつ） | last month |
+| 今月 |（こんげつ） | this month |
+| 来月 |（らいげつ） | next month |
+| 先日 |（せんじつ） | a few days ago |
+| 最近 |（さいきん） | recently |
+| まもなく |（まもなく） | soon |
+| もうすぐ |（もうすぐ） | soon |
+| すこし |（すこし） | a little |
+| ちょっと |（ちょっと） | a little bit |
+| 少しばかり |（すこしばかり） | a little bit |
+| 少しだけ |（すこしだけ） | a little bit |
+| いくらか |（いくらか） | some, several, a little |
+| 十分 |（じゅうぶん） | enough |
+| 十分すぎるほど |（じゅうぶんすぎるほど） | more than enough |
+|えんぴつをけずる | えんぴつをけずります | sharpen a pencil |
+|ものさしで測る | ものさしではかります | measure something with a ruler |
+|たし算をする | たしざんをします | sum up |
+|ひき算をする | ひきざんをします | subtract |
+|同じ学年 | おなじがくねん | in the same grade |
+|転校生 | てんこうせい | a student who transfers to a new school |
+|けがをする | けがをします | get hurt |
+|引越しをする | ひっこしをします | move house |
+|病気にかかる | びょうきにかかります | fall ill |
+|死ぬ | しにます | die |
+|生まれる | うまれます | be born |
+|育つ | そだちます | grow up |
+|学校へ行く | がっこうへいきます | go to school |
+|会社へ行く | かいしゃへいきます | go to work |
+|買い物をする | かいものをします | go shopping |
+|食事をする | しょくじをします | have a meal |
+|寝る | ねます | go to bed |
+|起きる | おきます | wake up |
+|着替える | きがえます | change clothes |
+|歯を磨く | はをみがきます | brush your teeth |
+|顔を洗う | かおもあらいます | wash your face |
+|お風呂に入る | おふろに入ります | take a bath |
+|トイレに行く | トイレにいきます | go to the toilet |
+|本を読む | ほんをよみます | read a book |
+|テレビを見る | テレビをみます | watch TV |
+|ゲームをする | ゲームをします | play a game |
+|音楽を聴く | おんがくをききます | listen to music |
+|手紙を書く | てがみをかく | write a letter |
+|電話をかける | でんわををかけます | make a phone call |
+|メールを送る | メールをおくります | send an email |
+|インターネットをする | インターネットをします | use the internet |
+| 学部 | gakubu | faculty |
+| 学科 | gakka | department |
+| 入学試験 | nyuugakushiken | faculty entrance examination |
+| 文学部 | bungakubu | department of literature |
+| 経済学部 | keizaigakubu | department of economics |
+| 法学部 |ほうがくぶ | department of law |
+| 工学部 | kougakubu | department of science and engineering |
+| 医学部 | igakubu | department of medicine |
+| 薬学部 | yakugakubu | department of pharmacy |
+| 獣医学部 | juuigakubu | department of veterinary medicine |
+| 言語聴覚学部 | gengochoukakugakubu | department of speech and hearing science |
+| 看護学部 | kango gakubu | department of nursing |
+| 健康栄養学部 | kenkoueiyougakubu | department of health and nutrition |
+| 人間学部 | ningen gakubu | department of human sciences |
+| 教育学部 | kyouikugakubu | department of education |
+| 体育学部 | taiikugakubu | department of physical education |
+| 音楽学部 | ongaku gakubu | department of music |
+| 美術学部 | bijutsu gakubu | department of fine arts |
+| 建築学部 | kenchiku gakubu | department of architecture |
+| 農学部 | nougakubu | department of agriculture |
+| 遅刻 |（ちこく） | be late for the class |
+| 成績 |（せいせき） | good marks |
+| 上達する |（じょうたつする） | improve |
+| 勉強机 |（べんきょうつくえ） | study desk |
+| 授業料 |（じゅぎょうりょう） | tuition |
+| 休学届 |（きゅうがくとどけ） | leave from school |
+| 単位をとる |（たんいをとる） | take leave from school |
+| 留学する |（りゅうがくする） | study abroad |
+| どれほど |（どれほど） | how much |
+| 担任の先生 | たんにん（の せんせい） | the teacher in charge |
+| 提出する | ていしゅつ（する） | submit (a report) |
+| プリント | ぷりんと | handout |
+| 記入する | きにゅう（する） | fill in |
+| 間違い | まちがい | mistake |
+| 提出箱 | ていしゅつばこ | submission box |
+| 持ってくる | もってくる | bring |
+| 忘れる | わすれる | forget |
+| 提出する | ていしゅつ（する） | submit (a report) |
+| 先生 | せんせい | teacher |
+| 言う | ゆう | say |
+| 繰り返す | くりかえす | repeat many times |
+| 覚える | おぼえる | memorize |
+| 試験に出る | しけんにでる | be on the examination |
+| 間違える | まちがえる | make a mistake |
+| 開ける | あける | open |
+| 閉める | しめる | close |
+| 終わる | おわる | finish |
+| 直す | なおす | correct something |
+| 提出物 | ていしゅつぶつ | things to be submitted |
+| 先生に返す | せんせいにかえす | return to the teacher |
+| 明日 | あした | tomorrow |
+| 試験 | しけん | test
+| 結果 | けっか | result
+| カンニング | カンニング | cheating on an exam
+| 提出期限 | ていしゅつきげん | deadline
+| 守る | まもる |を守ります。|まもります。| keep, observe
+| 正しい | ただしい | correct
+| 間違い | まちがい | mistake
+| 見つける | みつける | find
+| 開ける | あける | open
+| 時間 | じかん | time
+| かかる | かかる | take
+| 先生 | せんせい | teacher
+| 言う | ゆう | say
+| 話す | はなす | talk
+| 書く | かく | write
+| 終わる | おわる | finish
+| 提出する | ていしゅつする | submit
+| する | する | do
+| 提出 | ていしゅつ | submission
+| する | する | do
+| 消す | けす | erase
+| 書き直す | かきなおす | rewrite
+| する | する | do
+| 提出する | ていしゅつする | submit
+| レポート | レポート | report
+| 見出し | みだし | heading
+| 書く | かく | write
+| 名前 | なまえ | name
+| 書く | かく | write
+| 学籍番号 | がくせきばんごう | student ID number
+| 書く | かく | write
+| 提出日 | ていしゅつび | due date
+| 書く | かく | write
+| 提出 | ていしゅつ | submission
+| する | する | do
+| 仕事 | しごと | work; job |
+| 探す | さがす | look for; search for |
+| 求人 | きゅうじん | job offer; help wanted ad |
+| 採用 | さいよう | hiring; employment |
+| 面接 | めんせつ | interview |
+|履歴書 | りれきしょ | resume; CV |
+| 給料 | きゅうりょう | salary; wages |
+| 交通費 | こうつうひ | transportation fee; commuting expenses |
+| ボーナス | ボーナス | bonus |
+| 昇進 | しょうしん | promotion |
+| 定年 | ていねん | retirement age |
+| 退職 | たいしょく | retirement; resignation |
+| 家事 | かじ | housework; chores |
+| 料理 | りょうり | cooking |
+| 掃除 | そうじ | cleaning |
+| 洗濯 | せんたく | laundry |
+| アイロン | アイロン | ironing |
+| 買い物 | かいもの | shopping |
+| 育児 | いくじ | child care; parenting |
+| お金をむける |　お金をもうける | make money | earn money
+| 仕事をまくる | しごとを　おえる | finish the work | complete work
+| 仕事をなまける | しごとをなまける | be lazy in your work | be lazy
+| やめさせられる | やめさせられる | be fired | be fired
+| ねんしゅう |れんしゅう | practice | practice
+| パソコン | （パソコン） | Personal computer
+| キーボード | （キーボード） | Keyboard
+| ノートパソコン | （ノートパソコン） | Laptop computer
+| デスクトップパソコン | （デスクトップパソコン） | Desktop computer
+| マウス | （マウス） | Mouse
+| はじめて | （はじめて） | First time
+| パソコンをつかう | （パソコンをつかう） | Use a computer
+| 入門編 | （にゅうもんへん） | Beginner
+| じゅぎょう | （じゅぎょう） | Lesson
+| しゅせきする | （しゅせきする） | Attend
+| パソコンをけいけんする | （パソコンをけいけんする） | Get used to a computer
+| しんぴん | （しんぴん） | New product
+| 中古 | （ちゅうこ） | Used
+| インストールする | （インストールする） | Install software
+| ソフトウエア | （ソフトウエア） | Software
+| スタートボタンをクリックする | （スタートボタンをクリックする） | Click on the start button
+| あたらしいファイルをかく | （あたらしいファイルをかく） | Create a new file
+| 年賀状 | （ねんがじょう） | New year’s cards
+| インターネットにつながる | ネットにつながる | get connected to the internet |
+| 情報を収集する | じょうほうを収集する | gather information |
+| オークションに参加する | オークションに参加する | take part in an auction |
+| ホームページを作る | ホームページをつくる | create a website |
+| ブログを始める | ブログをはじめる | create a blog |
+| 送信トレイ | そうしんとれい | Sent Items |
+| 受信トレイ | じゅしんとれい | Inbox |
+| 下書き | したがき | Drafts |
+| 送信済みアイテム | そうしんずみのアイテム | Sent Items |
+| 削除済みアイテム | さくじょずみのアイテム | Deleted Items |
+| 迷惑メール | めいわくメール | Junk E-mail |
+| 新規メッセージ | しんきいメッセージ | New Message |
+| 宛先 | あてさき | To |
+| 件名 | けんめい | Subject |
+|本文 | ほんぶん | Text |
+| 添付ファイル | てんぷふぁいる | Attached File |
+| 送信 | そうしん | Send |
+| 返信 | へんしん | Reply |
+| 転送 | てんそう | Forward |
+| 削除 | さくじょ | Delete |
+| 新規作成 | しんきさくせい | Create a new message |
+| 送信者 | そうしんしゃ | Sender |
+| 宛先 | あてさき | Recipient |
+| すべてのメッセージをチェックする | すべてのメッセージをチェックする | Check all incoming mail |
+| 送信者の（メール）アドレスを登録する | save the (email) address of the sender in the address book |
+| 送信者 | hoshinsha | sender |
+| アドレス帳 | adoresu-chou | address book |
+| 登録 | touroku | registration |
+| 送信が完了する | messages been sent |
+| 送信完了 | sou-shin kanryou | Transmission completed |
+| 宛先 |宛先 | Destination |
+| 家族 | かぞく | family |
+| 親戚 | しんせき | relatives |
+| 夫婦 | ふうふ | married couple |
+| 息子 | むすこ | son |
+| 娘 | むすめ | daughter |
+| 長男 | ちょうなん | eldest son |
+| 次男 | じなん | second son |
+| 三男 | さんなん | third son |
+| 長女 | ちょうじょ | eldest daughter |
+| 次女 | じじょ | second daughter |
+| 三女 | さんじょ | third daughter |
+| 末っ子 | まっこ | youngest child |
+| おじいさん | おじいさん | grandfather |
+| おばあさん | おばあさん | grandmother |
+| 父 | ちち | father |
+| 母 |はは | mother |
+| 兄 | あに | elder brother |
+| 姉 | あね | elder sister |
+| 弟 | おとうと | younger brother |
+| 妹 | いもうと | younger sister |
+| 祖父 | そふ | paternal grandfather |
+| 祖母 | そこ | paternal grandmother |
+| 外祖父 | がいそふ | maternal grandfather |
+| 外祖母 | がいそぼ | maternal grandmother |
+| 義父 | ぎふ | father-in-law |
+| 義母 | ぎぼ | mother-in-law |
+| 嫁 | よめ | daughter-in-law |
+| 婿 | むこ | son-in-law |
+| 孫 | まご | grandchild |
+| ひ孫 | ひまご | great-grandchild |
+| 親戚 | しんせき | relatives |
+| 従兄弟 | いとこ | cousin |
+| 叔父 | おじ | uncle |
+| 叔母 | おば | aunt |
+| 甥 | おい | nephew |
+| 姪 | めい | niece |
+| 兄弟 | きょうだい | brothers and sisters |
+| 姉妹 | しまい | sisters |
+| いとこ | いとこ | cousins |
+| おじ | おじ | uncle |
+| おば | おば | aunt |
+| 伯父 | おじ | uncle |
+| 叔母 | おば | aunt |
+| 従兄弟 | いとこ | cousin |
+| 一人っ子 |ひとりっこ | the only child |
+| 長男 | ちょうなん | the oldest son |
+| 長女 | ちょうじょ | the oldest daughter |
+| 次男 | じなん | the second son |
+| 次女 | じじょ | the second daughter |
+| 三男 | さんなん | the third son |
+| 三女 | さんじょ | the third daughter |
+| 四男 | よなん | the fourth son |
+| 四女 | よじょ | the fourth daughter |
+| 五男 | ごなん | the fifth son |
+| 五女 | ごじょ | the fifth daughter |
+| 六男 | ろくなん | the sixth son |
+| 六女 | ろくじょ | the sixth daughter |
+| 郵便局はどこですか | ゆうびんきょくはどこですか | Where is the post office?
+| 警察はどこですか | けいさつはどこですか | Where is the police station?
+| 病院はどこですか | びょういんはどこですか | Where is the hospital?
+| 学校はどこですか | がっこうはどこですか | Where is the school?
+| 図書館はどこですか | としょかんはどこですか | Where is the library?
+| 公園はどこですか | こうえんはどこですか | Where is the park?
+| どこから来ましたか | どこからきましたか | Where are you from?
+| どこに住んでいますか | どこに住んでいますか | Where do you live?
+| 何をしていますか | なにをしていますか | What do you do?
+| 趣味は何ですか | しゅみは何ですか | What are your hobbies?
+| 好きな食べ物は | すきなたべものは | What is your favorite food?
+| 嫌いな食べ物は | きらいなたべものは | What is your least favorite food?
+| 得意なことは | とくいなことは | What are you good at?
+| 苦手なことは | にがてなことは | What are you bad at?
+| 将来の夢は | しょうらいのゆめは | What are your dreams for the future?
+| ご馳走さま。 | ごちそうさま。 | Thank you for the meal.
+| お疲れ様でした。 | おつかれさまでした。 | You've worked hard.
+| 社員 | しゃいん | Employee
+| 部長 | ぶちょう | Manager
+| 課長 | かちょう | Section chief
+| 失礼します。 | しつれいします。 | Excuse me.
+| じゃ、お先に。 | じゃ、お先に。 | Well then, I'll go first.
+| 人が |（じんが）| People |
+| 好きですか |（すきですか）| Do you like? |
+| 勇気のある人 |（ゆうきのあるひと）| Courageous person |
+| ユーモアのある人 |（ユーモアのあるひと）| Humorous person |
+| 親切な人 |（しんせつなひと）| Kind person |
+| 正直な人 |（しょうじきなひと）| Honest person |
+| 頭がいい人 |（あたまがいいひと）| Smart person |
+| かっこいい人 |（かっこいいひと）| Cool person |
+| かわいい人 |（かわいいひと）| Cute person |
+| スタイルのいい人 |（スタイルのいいひと）| Stylish person |
+| 思いやりのある人 |（おもいやりのあるひと）| Considerate person |
+| 頼りがいのある人 |（たよりがいのあるひと）| Reliable person |
+| 話しやすい人 |（はなしやすいひと）| Easy-to-talk-to person |
+| 明るい人 |（あかるいひと）| Bright person |
+| ポジティブな人 |（ポジティブなひと）| Positive person |
+| ネガティブな人 |（ネガティブなひと）| Negative person |
+| 落ち着いている人 |（おちついているひと）| Calm person |
+| 落ち込んだ人 |（おちこん だひと）| Depressed person |
+| まじめな人 |（まじめなひと）| Serious person |
+| おもしろい人 |（おもしろいひと）| Funny person |
+| ハンサムな人 |（ハンサムなひと）| Handsome man |
+| 美人な人 |（びじんなひと）| Beautiful woman |
+| スマートな人 |（スマートなひと）| Smart person |
+| 了得 | りょうとく | mean; capable; sagacious |
+| 怠ける | なまける | be lazy |
+| 無責任 | むせきにん | irresponsible |
+| 体調 | たいちょう | physical condition |
+| どうでしたか？ | どうでしたか？ | How are you feeling? |
+| 風邪気味です。 | かぜぐみです。 | I have a cold. |
+| 熱があります。 | ねつがあります。 | I have a fever. |
+| 頭がいたい | あたまがいたい | I have a headache. |
+| おなかがいたい | おなかがいたい | I have a stomachache. |
+| せなかがいたい | せなかがいたい | I have a backache. |
+| 足がいたい | あしがいたい | I have a leg pain. |
+| 気分が悪い | きぶんが悪い | I feel sick. |
+| 吐き気がする | はきけがする | I feel like vomiting. |
+| 熱がある | ねつがある | I have a fever. |
+| 咳が出る | せきがでる | I have a cough. |
+| くしゃみが出る | くしゃみが出る | I have a sneeze. |
+| 目がかすむ | めがかすむ | My vision is blurry. |
+| 花粉症 | かふんしょう | I have hay fever. |
+| 気持ち悪い | きもちわるい | I feel bad. |
+| お大事に | おだいじに | Take care. |
+| 医師の診察を受ける | いしのしんさつをうける | see a doctor |
+| 診察券を提示する | しんさつけんをていしする | show your health insurance card |
+| インフルエンザにかかる | インフルエンザにかかる | catch the flu |
+| 熱が出る | ねつがでる | have a fever |
+| 注射を打つ | ちゅうしゃをうつ | get a shot |
+| 手術を受ける | しゅじゅつをうける | have an operation |
+| 入院する | にゅういんする | be hospitalized |
+| 退院する | たいせんする | leave the hospital |
+| お見舞いに行く | おみまいに行く | visit a sick person |
+| にきび |（にきび） | Pimple |
+| しわ |（しわ） | Wrinkle |
+| はげ |（はげ） | Bald |
+| ねぼそ |（ねぼそ） | Sleepy |
+| ふけこむ |（ふけこむ） | Look old |
+| しかめっつら |（しかめっつら） | Frown |
+| げっそり |（げっそり） | Haggard |
+| おどろき |（おどろき） | Surprise |
+| あごひげ |（あごひげ） | Beard |
+| メガネ |（めがね） | Glasses |
+| えくぼ |（えくぼ） | Dimple |
+| まゆげ |（まゆげ） | Eyebrow |
+| まつげ |（まつげ） | Eyelash |
+| 鼻 |（はな） | Nose |
+| くちびる |（くちびる） | Lips |
+| 耳たぶ |（みみたぶ） | Earlobe |
+| ひげを生やす | ひげを生や（は）す | grow a beard |
+| つめがのびる | つめがのび（る） | nails grow |
+| 髪の毛がのびる | かみのけがのび（る） | hair grows |
+| 歯が生える | はが生（は）える | teeth coming in |
+| 髪をそめる | かみをそ（める） | dye one's hair |
+| 花が咲く | はなさく | Flowers bloom |
+| 花が散る | はなちる | Flowers fall down |
+| 木が倒れる | きがたおれる | A tree dies |
+| 山が崩れる | やまがくずれる | A mountain collapses |
+| 道が凍る | みちがこおる | The road freezes |
+| 氷がとける | こおりがとける | The ice melts |
+| 箱がつぶれる | はこがつぶれる | A box collapses |
+| 風がそよぐ | かぜがそよぐ | The wind blows gently |
+| 波が立つ | なみがたつ | The waves rise |
+| 舟が沈む | ふねがしずむ | A boat sinks |
+| 天気がいい | てんきがいい | The weather is nice |
+| 暑い | あつい | It's hot |
+| 寒い | さむい | It's cold |
+| 湿っぽい | しめっぽい | It's humid |
+| ねばねばする | ねばねばする | It's sticky |
+| ざらざらする | ざらざらする | It's rough |
+| 気持ちが悪い | きもちわるい | I feel sick |
+| 生臭い | なまぐさい | It smells fishy |
+| 幽霊が出る | ゆうれいがでる | A ghost appears |
+| 親友 | しんゆう | A close friend |
+| 大変な人 | たいへんなひと | A troublesome person |
+| 落ちこぼれ | おちこぼれ | A dropout |
+| 優秀な成績 | ゆうしゅうなせいか | Excellent grades |
+| 努力した甲斐があった | どりょくしたかいがあった | My efforts paid off |
+| けんか | けんか | A fight |
+| 仲直り | なかよくり | Reconciliation |
+| 小さい | ちいさい | Small |
+| 大きい | おおきい | Big |
+| 高い | たかい | Tall |
+| 低い | ひくい | Short |
+| 速い | はやい | Fast |
+| 遅い | おそい | Slow |
+| 鋭い | するどい | Sharp |
+| 鈍い | にぶい | Dull
+| 安全な場所 | あんぜんなばしょ | a safe place |
+| 廊下 |ろうか | a room |
+| 明るい部屋 | あかるいへや | a glaring light |
+| まぶしい | まぶしい | dazzling |
+| よくない証明書 | よくないしょうめいしょ | a worthless manual |
+| くだけない | くだけない | detailed manual |
+| 説明する | せつめいする | explain in details |
+| かんじ | かんじ | Chinese character |
+| がんばる | がんばる | to do one's best, to persevere |
+| ねんがっぴょう | ねんがっぴょう | New Year's card |
+| おめでとうございます | おめでとうございます | Happy New Year |
+| はがき | はがき | postcard |
+| 切手 | きって | stamp |
+| 手紙 | てがみ | letter |
+| メール | メール | email |
+| 電話 | でんわ | telephone |
+| かける | かける | to call |
+| うける | うける | to receive |
+| でんわばんごう | でんわばんごう | telephone number |
+| 住所 | じゅうしょ | address |
+| 名前 | なまえ | name |
+| 生年月日 | せいねんがっぴ | date of birth |
+| 電話番号 | でんわばんごう | telephone number |
+| 住所 | じゅうしょ | address |
+| メールアドレス | メールアドレス | email address |
+| 血液型 | けつえきがた | blood type |
+| 職業 | しょくぎょう | occupation |
+| 趣味 | しゅみ | hobby |
+| 特技 | とくぎ | special skill |
+| 資格 | しかく | qualification |
+| 学歴 | がくれき | educational background |
+| 職歴 | しょくれき | work experience |
+| 家族構成 | かぞくこうせい | family structure |
+| 自分の長所 | じぶんのちょうしょ | one's own strengths |
+| 自分の短所 | じぶんのたんしょ | one's own weaknesses |
+| 将来の夢 | しょうらいのゆめ | dream for the future |
+| けんか | けんか | fight; quarrel |
+| 友達 | ともだち | friend |
+| 花火 | はなび | firework; firecracker |
+| まあ | まあ | well; I see |
+| さいきん | さいきん | recently |
+| 勉強机 | べんきょうづクエ | study desk |
+| けん玉 | けんだま | cup-and-ball game |
+| はみがき | （はみがき） | Toothbrush |
+| つくえ | （つくえ） | Desk |
+| かがみ | （かがみ） | Mirror |
+| じてんしゃ | （じてんしゃ） | Bicycle |
+| せんたくき | （せんたくき） | Washing machine |
+| れいぞうこ | （れいぞうこ） | Refrigerator |
+| テレビ | （テレビ） | Television |
+| パソコン | （パソコン） | Personal computer |
+| でんわ | （でんわ） | Telephone |
+| エアコン | （エアコン） | Air conditioner |
+| ほっとする |（ほっとする） | be relieved |
+| じっとする |（じっとする） | bear patiently |
+| じっと見つめる |（じっとみつめる） | stare at |
+| ぎっしり |（ぎっしり） | clean quickly |
+| ぞろぞろ |（ぞろぞろ） | come close |
+| さっさと |（さっさと） | quickly |
+| とどこおる | とどこおる | be slow; make no progress |
+| はかどる | はかどる | go well; make progress |
+| どんどん | どんどん |どんどん |
+| ほうっておく | ほうっておく | leave alone; let alone |
+| つぶやく | つぶやく | mumble; mutter |
+| ぶつぶつ | ぶつぶつ | grumble; complain |
+| もぐもぐ | もぐもぐ | eat noisily; munch |
+| そうぞうする | そうぞうします | Imagine |
+| もちろん | もちろんです | Of course |
+| たまたま | たままたま | Occasionally |
+| さきほど | さきほどは | A short while ago |
+| まちがいない | まちがいありません | That's right |
+| さきほど | さきほど | A short while ago |
+| 理系の | (りがくけいの) | Science-related |
+| 人に出会う | (ひとにであう) | Meet someone |
+| 偶然の | (ぐうぜん) | Accidental |
+| 人に出くわす | (ひとにであくわす) | Bump into someone |
+| 挨拶をする | (あいさつ) | Greet |
+| １時間ほど | (１じかんほど) | About an hour |
+| 理想の人 | (りそうのひと) | An ideal person |
+| 出会う | (であう) | Meet |
+| 見かける | (みかける) | Catch sight of |
+| 空を見上げる | (そらをみあげる) | Look up at the sky |
+| 町を歩く | (まちをあるく) | Walk down a street |
+| 立ち止まる | (たちどまる) | Stop walking |
+| ソファーに座る | (ソファーにすわる) | Sit on a sofa |
+| 立ち上がる | (たちあがる) | Get up off the couch |
+| 郵便局に行く | (ゆうびんきょくへいく) | Go to the post office |
+| 隣の人に声を掛ける | (となりのひとにこえをかける) | Speak to the person sitting next to me |
+| 田舎に帰る | (いなかへかえる) | Go back to the countryside |
+| 叔母に会う | (おばにであう) | Meet my aunt |
+| 約束をする | (やくそくをする) | Make an appointment |
+| 電話で話す | (でんわではなす) | Talk to on the phone |
+| 申し込む | (もうしこむ) | Apply |
+| 締め切りは | (しめきりは) | Deadline |
+| 応募する | (おうぼする) | Send in an application |
+| 採用される | (さいようされる) | Be accepted |
+| 辞める | (やめる) | Quit |
+| 願い出る | (ねがいでる) | Request |
+| 採用試験 | (さいようしけん) | Job interview |
+| 面接を受ける | (めんせつをうける) | Have an interview |
+| 合格する | (ごうかくする) | Pass |
+| 内定をもらう | (ないていをうける) | Get a job offer |
+| 入社する | (にゅうしゃする) | Join a company |
+| 研修を受ける | (じゅんしゅをうける) | Receive training
+| 電池を取り替える | かんでんちをとりかえる | change the battery |
+| 電池が切れる | かんでんちがきれる | the battery runs out |
+| CDを取り出す | しーでぃーをとりだす | take out the CD |
+| CDを挿入する | しーでぃーをそうにゅうする | insert the CD |
+| 子供を迎えに行く | こどもをむかえにいく | pick up a child |
+| 子供が飛び出る | こどもがとびだす | a child runs out |
+| プールに飛び込む | プールにとびこむ | jump into the swimming pool |
+| オプション | おぷしょん | option |
+| キャンセル | きゃんせる | cancel |
+| 新聞広告 | しんぶんこうこく | newspaper advertisement |
+| オークション | おーくしょん | auction |
+| オークションに出す | おーくしょんにだす | put up for auction |
+| 荷物を取りに来る | にものをとりによせる | Come and get the luggage |
+| 出かける | でかける | go out |
+| 話す | はなす | talk |
+| 合わせる | あわせる | match |
+| 読ませる | よませる | let read |
+| 新聞 | しんぶん | newspaper |
+| 辞書 | じしょ | dictionary |
+| 本 | ほん | book |
+| ノート | ノート | notebook |
+| ペン | ペン | pen |
+| 鉛筆 | えんぴつ | pencil |
+| 消しゴム | けしゴム | eraser |
+| 定規 | じょうぎ | ruler |
+| はさみ | はさみ | scissors |
+| セロハンテープ | セロハンテープ | cellophane tape |
+| ホチキス | ホチキス | stapler |
+| ファイル | ファイル | file |
+| フォルダー | フォルダー | folder |
+| 電卓 | でんたく | calculator |
+| パソコン | パソコン | personal computer |
+| スマホ | スマホ | smartphone |
+| タブレット | タブレット | tablet |
+| テレビ | テレビ | television |
+| ラジオ | ラジオ | radio |
+| CDプレーヤー | CDプレーヤー | CD player |
+| DVDプレーヤー | DVDプレーヤー | DVD player |
+| ブルーレイレコーダー | ブルーレイレコーダー | Blu-ray recorder |
+| ゲーム機 | ゲームき | game console |
+| エアコン | エアコン | air conditioner |
+| 扇風機 | せんぷうき | electric fan |
+| ストーブ | ストーブ | stove |
+| 電子レンジ | でんしレンジ | microwave oven |
+| 冷蔵庫 | れいぞうこ | refrigerator |
+| 洗濯機 | せんたくき | washing machine |
+| 乾燥機 | かんそうき | dryer |
+| アイロン | アイロン | iron |
+| 掃除機 | そうじき | vacuum cleaner |
+| モップ | モップ | mop |
+| バケツ | バケツ | bucket |
+| ほうき | ほうき | broom |
+| ちりとり | ちりとり | dustpan |
+| ゴミ箱 | ごみばこ | trash can |
+| トイレ | トイレ | toilet |
+| お風呂 | おふろ | bath |
+| シャワー | シャワー | shower |
+|洗面台 | せんめん台 | washstand |
+| 歯ブラシ | はぶらし | toothbrush |
+| 歯磨き粉 | はみがきこ | toothpaste |
+| シャンプー | シャンプー | shampoo |
+| リンス | リンス | conditioner |
+| ボディーソープ | ボディーソープ | body soap |
+| タオル | タオル | towel |
+| ドライヤー | ドライヤー | hair dryer |
+| 化粧品 | けしょうひん | cosmetics |
+| 香水 | こうすい | perfume |
+| メガネ | メガネ | glasses |
+| コンタクトレンズ | コンタクトレンズ | contact lenses |
+| 時計 | とけい | watch |
+| 指輪 | ゆびわ | ring |
+| ネックレス | ネックレス | necklace |
+| ピアス | ピアス | earrings |
+| ブレスレット | ブレスレット | bracelet |
+| カバン | カバン | bag |
+| 財布 | さいふ | wallet |
+| 鍵 | かぎ | key |
+| ハンカチ | ハンカチ | handkerchief |
+| ティッシュ | ティッシュ | tissue |
+| ウェットティッシュ | ウェットティッシュ | wet wipe |
+| マスク | マスク | mask |
+| 帽子 |ぼうし | hat |
+| マフラー | マフラー | muffler |
+| 手袋 | てぶくろ | gloves |
+| コート | コート | coat |
+| スーツ | スーツ | suit |
+| ワンピース | ワンピース | one-piece dress |
+| スカート | スカート | skirt |
+| パンツ | パンツ | pants |
+| シャツ | シャツ | shirt |
+| ブラウス | ブラウス | blouse |
+|セーター | セーター | sweater |
+| カーディガン | カーディガン | cardigan |
+|パーカー | パーカー | parka |
+| ダウンジャケット | ダウンジャケット | down jacket |
+| マフラー | マフラー | muffler |
+| 手袋 | てぶくろ | gloves |
+| コート | コート | coat |
+| スーツ | スーツ | suit |
+| ワンピース | ワンピース | one-piece dress |
+| スカート | スカート | skirt |
+| パンツ | パンツ | pants |
+| シャツ | シャツ | shirt |
+| ブラウス | ブラウス | blouse |
+|セーター | セーター | sweater |
+| カーディガン | カーディガン | cardigan |
+|パーカー | パーカー | parka |
+| ダウンジャケット | ダウンジャケット | down jacket |
+|靴 | くつ | shoes |
+|ブーツ | ブーツ | boots |
+|サンダル | サンダル | sandals |
+|スリッパ | スリッパ | slippers |
+|ハイヒール | ハイヒール | high heels |
+|スニーカー | スニーカー | sneakers |
+|運動靴 | うんどうぐつ | sports shoes |
+|レインシューズ | レインシューズ | rain shoes |
+|長靴 | ながぐつ | boots |
+|傘 |かさ | umbrella |
+|杖 | つえ | cane |
+|車椅子 | くるまいす | wheelchair |
+|ベビーカー | ベビーカー | baby stroller |
+|自転車 |じてんしゃ | bicycle |
+|オートバイ | オートバイ | motorcycle |
+|車 | くるま | car |
+|バス | バス | bus |
+|電車 | でんしゃ | train |
+|新幹線 | しんかんせん | Shinkansen |
+|飛行機 | ひこうき | airplane |
+|船 | ふね | ship |
+|ホテル | ホテル | hotel |
+|旅館 | りょかん | Japanese inn |
+|民宿 | みんしゅく |民宿 |
+|アパート | アパート | apartment |
+|マンション | マンション | condominium |
+|一軒家 | いっけんや | house |
+|別荘 | べっそう | villa |
+|レストラン | レストラン | restaurant |
+|カフェ | カフェ | cafe |
+|バー | バー | bar |
+|居酒屋 |居酒屋 | izakaya |
+|スナック | スナック | snack bar |
+|コンビニ | コンビニ | convenience store |
+|スーパー | スーパー | supermarket |
+|デパート | デパート | department store |
+|ショッピングモール | ショッピングモール | shopping mall |
+|ドラッグストア | ドラッグストア | drugstore |
+|ホームセンター | ホームセンター | home center |
+|書店 | しょてん | bookstore |
+|文房具店 | ぶんぼうぐてん | stationery store |
+|電気屋 | でんきや | electronics store |
+|家具屋 | かぐや | furniture store |
+|服屋 | ふくや | clothing store |
+|靴屋 | くつや | shoe store |
+|バッグ屋 | バッグや | bag store |
+|時計屋 | とけいや | watch store |
+|眼鏡屋 | めがねや | glasses store |
+|宝石屋 | ほうせきや | jewelry store |
+|花屋 | はなや | flower shop |
+|ペットショップ | ペットショップ | pet shop |
+|病院 | びょういん | hospital |
+|診療所 | しんりょうじょ | clinic |
+|薬局 | やっきょく | pharmacy |
+|銀行 | ぎんこう | bank |
+|郵便局 | ゆうびんきょく | post office |
+|交番 | こうばん | police box |
+|消防署 | しょうぼうしょ | fire station |
+|区役所 | くやくしょ | ward office |
+|市役所 | しやくしょ | city hall |
+|都庁 | とちょう | metropolitan government office |
+|公園 | こうえん | park |
+|動物園 | どうぶつえん | zoo |
+|水族館 | すいぞくかん | aquarium |
+|遊園地 | ゆうえんち | amusement park |
+|映画館 | えいがかん | movie theater |
+|美術館 | びじゅつかん | art museum |
+|図書館 | としょかん | library |
+|ホール | ホール | hall |
+|スタジアム | スタジアム | stadium |
+|スポーツジム | スポーツジム | sports gym |
+|プール | プール | swimming pool |
+|カラオケ | カラオケ | karaoke |
+|ボーリング場 | ボーリングじょう | bowling alley |
+|ゲームセンター | ゲームセンター | game center |
+|パチンコ | パチンコ | pachinko |
+|競馬場 | けいばじょう | racecourse |
+| 鍵がかかっている | かぎがかかっている | locked |
+| 診察にかかる | しんさつにかかる | to see a doctor |
+| 気にかかる | きにかかる | to be concerned about |
+| ボタンを押す | ボタンをおす | to push a button |
+| CDをかける | シーディーをかける | to play a CD |
+| 布をかける | ぬのをかける | to put a cloth on |
+| 声をからす | こえをからす | to lose one's voice |
+| 歯をみがく | はをみがく | to brush one's teeth |
+| 手紙を書く | てがみをかく | to write a letter |
+| 勉強する | べんきょうする | to study |
+| 料理をする | りょうりをする | to cook |
+| 掃除をする | そうじをする | to clean |
+| 洗濯をする | せんたくをする | to do laundry |
+| 買い物をする | かいものをする | to go shopping |
+| 旅行する | りょこうする | to travel |
+| 電話をかける | でんわをかける | to make a phone call |
+| メールを送る | メールをおくる | to send an email |
+| インターネットをする | インターネットをする | to use the internet |
+| テレビを見る | テレビをみる | to watch TV |
+| 映画を見る | えいがをみる | to watch a movie |
+| 本を読む | ほんをよむ | to read a book |
+| 新聞を読む | しんぶんをよむ | to read a newspaper |
+| 雑誌を読む | ざっしをよむ | to read a magazine |
+| 漫画を読む | まんがをよむ | to read a manga |
+| ゲームをする | ゲームをする | to play a game |
+| 散歩をする | さんぽをする | to take a walk |
+| ジョギングをする | ジョギングをする | to go jogging |
+| サイクリングをする | サイクリングをする | to go cycling |
+| 水泳をする | すいえいをす | to go swimming |
+| スキーをする | スキーをする | to go skiing |
+| スケートをする | スケートをする | to go skating |
+| テニスをする | テニスをする | to play tennis |
+| 野球をする | やきゅうをする | to play baseball |
+| サッカーをする | サッカーをする | to play soccer |
+| バスケットボールをする | バスケットボールをする | to play basketball |
+| バレーボールをする | バレーボールをする | to play volleyball |
+| 卓球をする | たっきゅうをする | to play table tennis |
+| 囲碁をする | いごをする | to play go |
+| 将棋をする | しょうぎをする | to play shogi |
+| 花札をする | はなふだをする | to play hanafuda |
+| 麻雀をする | まージャンをする | to play mahjong |
+| パチンコをする | パチンコをする | to play pachinko |
+| 競馬をする | けいばをする | to go to the races |
+| 競艇をする | きょうていをする | to go to the boat races |
+| オートレースをする | オートレースをする | to go to the auto races |
